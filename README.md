@@ -16,3 +16,8 @@ https://cloud.mail.ru/public/gu6i/kLdvEUwVa
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/TRPAnalisis/3b7fa9e625d56884b52e56435f9488eb144f2c6d/ScreenshotsApplication/Single-factorAnalysisVariance.png"><img src="https://github.com/kontr24/TRPAnalisis/blob/3b7fa9e625d56884b52e56435f9488eb144f2c6d/ScreenshotsApplication/Single-factorAnalysisVariance.png"></img></a>
 </p>
+<hr/>
+<h2 align="center">Однофакторный линейный регрессионный анализ</h2>
+<p align="center">
+  <a href="123"><img src="https://github.com/kontr24/TRPAnalisis/blob/4308a657ad416e582cc673fa2dc1862de9a354d7/ScreenshotsApplication/Single-factorLinearRegressionAnalysis.png"></img></a>
+</p>
