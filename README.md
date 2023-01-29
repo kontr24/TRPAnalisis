@@ -11,3 +11,8 @@ https://cloud.mail.ru/public/gu6i/kLdvEUwVa
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/TRPAnalisis/5865863dada1fbebae0250bb132b5d0935166fbf/ScreenshotsApplication/TestingStatisticalHypotheses.png"><img src="https://github.com/kontr24/TRPAnalisis/blob/5865863dada1fbebae0250bb132b5d0935166fbf/ScreenshotsApplication/TestingStatisticalHypotheses.png"></img></a>
 </p>
+<hr/>
+<h2 align="center">Однофакторный дисперсионный анализ</h2>
+<p align="center">
+  <a href="123"><img src="https://github.com/kontr24/TRPAnalisis/blob/3b7fa9e625d56884b52e56435f9488eb144f2c6d/ScreenshotsApplication/Single-factorAnalysisVariance.png"></img></a>
+</p>
