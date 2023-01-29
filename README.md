@@ -26,3 +26,8 @@ https://cloud.mail.ru/public/gu6i/kLdvEUwVa
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/TRPAnalisis/f08b3654aeb3c621a1f7d81e95defe02f9bcfcad/ScreenshotsApplication/CorrelationAnalysis.png"><img src="https://github.com/kontr24/TRPAnalisis/blob/f08b3654aeb3c621a1f7d81e95defe02f9bcfcad/ScreenshotsApplication/CorrelationAnalysis.png"></img></a>
 </p>
+<hr/>
+<h2 align="center">Прогнозирование временного ряда на один шаг</h2>
+<p align="center">
+  <a href="123"><img src="https://github.com/kontr24/TRPAnalisis/blob/f0d0ffb16546b19539e912bfbc0f610cc465bcea/ScreenshotsApplication/DelayMatrix.png"></img></a>
+</p>
