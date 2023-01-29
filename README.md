@@ -21,3 +21,8 @@ https://cloud.mail.ru/public/gu6i/kLdvEUwVa
 <p align="center">
   <a href="https://raw.githubusercontent.com/kontr24/TRPAnalisis/4308a657ad416e582cc673fa2dc1862de9a354d7/ScreenshotsApplication/Single-factorLinearRegressionAnalysis.png"><img src="https://github.com/kontr24/TRPAnalisis/blob/4308a657ad416e582cc673fa2dc1862de9a354d7/ScreenshotsApplication/Single-factorLinearRegressionAnalysis.png"></img></a>
 </p>
+<hr/>
+<h2 align="center">Корреляционный анализ</h2>
+<p align="center">
+  <a href="123"><img src="https://github.com/kontr24/TRPAnalisis/blob/f08b3654aeb3c621a1f7d81e95defe02f9bcfcad/ScreenshotsApplication/CorrelationAnalysis.png"></img></a>
+</p>
